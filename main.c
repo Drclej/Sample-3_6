@@ -26,7 +26,6 @@ void initialize()
   
   P3DIR = 0x00;
   P3SEL = 0x00;
-  P3OUT = 0xFF;
   
   P4DIR = 0xFF;
   P4OUT = 0x00;
